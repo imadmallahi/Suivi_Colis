@@ -1,0 +1,17 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=ffba10c0f9540e89ab4b2d77bb3867486c4ac1f2
+eclipse.preferences.version=1
+encoding//WebContent/404.jsp=UTF-8
+encoding//WebContent/AcceuilAuthentification.jsp=UTF-8
+encoding//WebContent/AccueilLogin.jsp=UTF-8
+encoding//WebContent/CommandeCreateFormular.jsp=UTF-8
+encoding//WebContent/Inscriptions/InscriptionAgent.jsp=UTF-8
+encoding//WebContent/Listes/ListCommandeSortie.jsp=UTF-8
+encoding//WebContent/Navs/NavSuperviseur.jsp=UTF-8
+encoding//WebContent/PageErrorMotDepasse.jsp=UTF-8
+encoding//WebContent/Pagesuccess.jsp=UTF-8
+encoding//WebContent/ReclamationAdmin.jsp=UTF-8
+encoding//WebContent/SuivreUneCommande.jsp=UTF-8
+encoding//WebContent/partieSuperviseur.jsp=UTF-8
+encoding//src/web/Servlet.java=UTF-8
